@@ -4,5 +4,6 @@
 To run on your machine, ensure you do the foloowing first:
 1. have node js installed.
 2. have expo installed.
-3. run "npm install".
-4. tun "npm start".
+3. run "npm install @react-navigation/native"
+4. run "npm install".
+5. tun "npm start".
